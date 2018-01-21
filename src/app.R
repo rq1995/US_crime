@@ -7,7 +7,7 @@ library(RColorBrewer)
 library(colourpicker)
 
 # import previously cleaned data
-crime <- read_csv("../data/ucr_crime_1975_2015.csv")
+crime <- read_csv("https://raw.githubusercontent.com/rq1995/US_crime/master/data/ucr_crime_1975_2015.csv")
 
 
 #create lists to use for input selection

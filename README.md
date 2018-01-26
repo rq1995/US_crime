@@ -40,3 +40,22 @@ The deployed app can be located [here](https://rq1995.shinyapps.io/US_crime/)
     |
     |- results/       # output for tracking computational experiments performed on data
 
+## Dependencies
+This app was developed using
+
+```
+Rstudio version 1.1.383 
+Platform: Mac OS X 10_13
+```
+
+The packages explicitly called inside the app are
+
+
+-`plotly` v 4.7.1  
+-`forcats` v 0.2.0
+-`ggplot2` v 2.2.1
+-`dplyr` v 0.7.4   
+-`readr` v 1.1.1  
+-`shiny` v 1.0.5
+-`tidyverse` v 1.2.1
+

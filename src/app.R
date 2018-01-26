@@ -47,7 +47,7 @@ ui <- fluidPage(
       plotlyOutput('densityplot',width="100%",height=300),
       br(),
       h4("The trend of population in selecte region"),
-      plotlyOutput('barplot',width="100%",height=300)
+      plotlyOutput('lineplot',width="100%",height=300)
     )
   )
 )
@@ -80,7 +80,7 @@ server <- function(input, output,session) {
 })
 
   
-  output$barplot <- renderPlotly({
+  output$lineplot <- renderPlotly({
     
     filtered <-
       crime %>%

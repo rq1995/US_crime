@@ -5,8 +5,9 @@ account: rq1995
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 259042
-bundleId: 1186050
+bundleId: 1194958
 url: https://rq1995.shinyapps.io/US_crime/
-when: 1516574660.62806
+when: 1517000551.99135
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: .gitkeep|cookie_cutter.sh|README.md

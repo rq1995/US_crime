@@ -17,6 +17,9 @@ The app contains a landing page that shows the trend of dataset factors (violent
 From the crime type selection, users can filter out variables from the data, by total crime type, Homicide, rape, robbery and assault.
 From slider selection, user can choose the range of year that he want plot in the page. From a dropdown list (Region), users can select which region he want to check. Users can also select preference color to the plot by using colour selection. 
 
+## Where can find
+
+The deployed app can be located [here](https://rq1995.shinyapps.io/US_crime/)
 
 
 ## Folder structure

@@ -1,4 +1,4 @@
-#Crime data for US cities App
+# Crime data for US cities App
 
 Ruoqi (Stephanie) Xu     2018-01-14
 
@@ -20,6 +20,9 @@ From slider selection, user can choose the range of year that he want plot in th
 ## Where can find
 
 The deployed app can be located [here](https://rq1995.shinyapps.io/US_crime/)
+
+## Initial screen shot
+![US crime](./results/select_initial.png)
 
 
 ## Folder structure
